@@ -1,0 +1,6 @@
+{
+  "name": "Java ile Kombinasyon ve Faktöriyel Hesaplayıcı | Enes Öztürk",
+  "description": "Java ile faktöriyel ve C(n,r) = n! / (r! * (n-r)!) kombinasyon hesaplama programı, canlı kod simülatörü ve ödev çözümü. Enes Öztürk imzalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
